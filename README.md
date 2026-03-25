@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,express,nodejs,github,tailwind,git,docker,gitlab," />
-    <img src="https://skillicons.dev/icons?i=prometheus,postgresql,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,nextjs" /><br>
 </div>
 <br/>
 <hr/>
