@@ -6,20 +6,14 @@
 </h2>
 
 <div align="center"> 
- I’m <b>Husnian Raza</b> – <b>Programming, DevOps, and Full Stack Development</b>. 
+</b> – <b>Programming, DevOps, and Full Stack Development</b>. 
  <br><br>
  💻 As a <b>Full Stack Web & Cross-Platform Mobile App Engineer</b>, I work with cutting-edge technologies like <b>React.js, React Native, Next.js 15 Node.js, Express.js, MongoDB, and PostgreSQL</b> to build scalable and high-performing applications.
  <br><br>
 </div>
  <br />
 <div align="center"> 
-  <a href="mailto:farzeenaliarif786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-    <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/farzeen-ali-533479204" >
+  <a href="https://www.linkedin.com/in/husnain-raza-138320305/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BE1QyrSOYSqehX4e%2FYT8kVw%3D%3D" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -27,7 +21,7 @@
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,express,nodejs,nestjs,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
+    <img src="https://skillicons.dev/icons?i=react,reactnative,javascript,typescript,express,nodejs,github,tailwind,git,docker,gitlab," />
     <img src="https://skillicons.dev/icons?i=prometheus,postgresql,supabase,prisma,firebase,mongodb,nextjs,nuxt,graphql,jenkins,terraform,aws,ansible,grafana,gcp" /><br>
 </div>
 <br/>
