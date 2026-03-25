@@ -21,8 +21,8 @@
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,reactnative,javascript,typescript,express,nodejs,github,tailwind,git,docker,gitlab," />
-    <img src="https://skillicons.dev/icons?i=prometheus,postgresql,supabase,prisma,firebase,mongodb,nextjs,nuxt,graphql,jenkins,terraform,aws,ansible,grafana,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,express,nodejs,github,tailwind,git,docker,gitlab," />
+    <img src="https://skillicons.dev/icons?i=prometheus,postgresql,mongodb,nextjs" /><br>
 </div>
 <br/>
 <hr/>
