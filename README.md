@@ -6,7 +6,7 @@
 </h2>
 
 <div align="center"> 
-</b> – <b>Programming, DevOps, and Full Stack Development</b>. 
+ – <b>Programming, DevOps, and Full Stack Development</b>. 
  <br><br>
  💻 As a <b>Full Stack Web & Cross-Platform Mobile App Engineer</b>, I work with cutting-edge technologies like <b>React.js, React Native, Next.js 15 Node.js, Express.js, MongoDB, and PostgreSQL</b> to build scalable and high-performing applications.
  <br><br>
