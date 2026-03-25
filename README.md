@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=farzeen-ali&show_icons=true&theme=midnight-purple" alt="Farzeen's GitHub Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nainocode&show_icons=true&theme=midnight-purple" alt="Husnain Raza GitHub Stats" height="200px" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&layout=compact&theme=midnight-purple" alt="Farzeen's Top Languages" height="200px" />
